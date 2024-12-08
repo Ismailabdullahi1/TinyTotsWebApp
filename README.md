@@ -77,11 +77,11 @@ Before running the application, ensure the following tools are installed:
 ## Screenshots
 - **Registration Form Page**:
   ![Registration Form](![Screenshot 2024-12-08 160338](https://github.com/user-attachments/assets/2be90835-b931-47fe-98bd-cc0779c659ae)
-)
+
 
 - **Registration List Page**:
   ![Registration List](![Screenshot 2024-12-08 161452](https://github.com/user-attachments/assets/2aba7c84-d264-456f-a945-dc37dd217b25)
-)
+
 
 
 
